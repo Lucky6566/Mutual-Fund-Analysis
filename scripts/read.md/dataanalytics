@@ -1,0 +1,24 @@
+# Core Data Analytics Foundation
+
+## Project
+
+Mutual Fund Data Analytics
+
+### Tools
+
+- Python
+- Pandas
+- SQL
+- Jupyter
+- Power BI
+
+### Dataset
+
+10 Mutual Fund CSV files
+
+### Objectives
+
+- Data Ingestion
+- Data Cleaning
+- EDA
+- Dashboard
